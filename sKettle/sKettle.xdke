@@ -1,0 +1,66 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "main.js": {
+        "previousModTime": 1447587369671,
+        "modified": 1447587369671,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1447520038212,
+        "modified": 1447520038212,
+        "seen": true,
+        "name": "package.json"
+      },
+      "sKettle.xdk": {
+        "previousModTime": 1447486829630,
+        "modified": 1447486829630,
+        "seen": true,
+        "name": "sKettle.xdk"
+      },
+      "sKettle.xdke": {
+        "previousModTime": 1447586538528,
+        "modified": 1447586538528,
+        "seen": true,
+        "name": "sKettle.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1447486829612,
+        "modified": 1447486829612,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "lcdTextHelper.js": {
+        "previousModTime": 1447523292678,
+        "modified": 1447523292678,
+        "seen": true,
+        "name": "lcdTextHelper.js"
+      },
+      "ws.js": {
+        "previousModTime": 1447552758968,
+        "modified": 1447552758968,
+        "seen": true,
+        "name": "ws.js"
+      },
+      "sensors.js": {
+        "previousModTime": 1447585553804,
+        "modified": 1447585553804,
+        "seen": true,
+        "name": "sensors.js"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1447587378336
+      }
+    }
+  }
+}
